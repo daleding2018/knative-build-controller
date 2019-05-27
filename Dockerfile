@@ -1,2 +1,1 @@
-FROM gcr.io/knative-releases/github.com/knative/build/cmd/controller@sha256:6c88fa5ae54a41182d9a7e9795c3a56f7ef716701137095a08f24ff6a3cca37d
-
+FROM gcr.io/knative-releases/github.com/knative/build/cmd/controller@sha256:6a762848a46786cb481f5870787133e0d5e15615f8d54a5ba50d86b8315a58eb
